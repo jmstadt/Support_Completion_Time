@@ -4,7 +4,7 @@ import requests
 import os.path
 
 import warnings
-warnings.filterwarnings(“ignore”)
+warnings.filterwarnings("ignore")
 
 path = ''
 
